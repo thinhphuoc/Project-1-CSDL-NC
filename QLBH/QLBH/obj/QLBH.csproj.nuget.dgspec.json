@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\QLBH\\QLBH\\QLBH.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\QLBH\\QLBH\\QLBH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\QLBH\\QLBH\\QLBH.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\QLBH\\QLBH\\QLBH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\QLBH\\QLBH\\QLBH.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\QLBH\\QLBH\\QLBH.csproj",
         "projectName": "QLBH",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\QLBH\\QLBH\\QLBH.csproj",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\QLBH\\QLBH\\QLBH.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\QLBH\\QLBH\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\QLBH\\QLBH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
